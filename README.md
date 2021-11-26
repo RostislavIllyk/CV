@@ -1,7 +1,7 @@
 # cv_projects
-2019 GeekBrains faculty of AI projects:
+__2019 GeekBrains faculty of AI projects:__
 
-- how to solve a problem with self-written tools
+- choose-proper-tutors-for-math-exam (task to solve a problem with self-written tools)
 - mysql database for auction
 - real estate price prediction
 - recoloring black/white photos
