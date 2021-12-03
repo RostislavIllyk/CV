@@ -1,5 +1,6 @@
 ## Курсовой проект по дисциплине «Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn» - соревнование на [kaggle.com](https://www.kaggle.com/c/realestatepriceprediction/overview) «Real Estate Price Prediction»
 ***
+![](./pick/1.png)
 ### Задача соревнования
 Предсказать цены на квартиры в датасете test.csv. Даны два датасета: train.csv (содержит признаки и цены на квартиры) и test.csv (только признаки).
 
