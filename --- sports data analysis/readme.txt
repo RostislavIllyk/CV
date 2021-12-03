@@ -1,4 +1,4 @@
-
+Решени задачи https://www.kaggle.com/c/geekbrains-competitive-data-analysis
 
 Сначала получаем базовый вариант предсказаний.
 Базовый вариант  -  base_pred.ipynb
