@@ -6,6 +6,7 @@ __2019 GeekBrains faculty of AI projects:__
 - nlp_bot
 - real estate price prediction
 - recoloring black/white photos
+- sports data analysis
 - vanilla hand gesture detection
 
  Detailed task and data description are mentioned inside .ipynb files
